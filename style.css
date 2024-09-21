@@ -1,0 +1,32 @@
+body{
+margin:0px;
+padding: 0px;
+background-color: #011627;
+color: aqua;
+text-align: center;
+
+background-image: url(https://media.istockphoto.com/id/1460853312/photo/abstract-connected-dots-and-lines-concept-of-ai-technology-motion-of-digital-data-flow.jpg?s=612x612&w=0&k=20&c=bR6oXBoagK2Yagty_At67Dx_wiYRuKJY3hM_ZHCuIxo=);
+background-repeat: no-repeat;
+background-size: 50%;
+height: 100vh;
+}
+h1{
+    font-size: 45px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 35px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: bisque;
+    color: black;
+
+}
+.btn:hover{
+   background-color: darkgreen; 
+   cursor: pointer;
+
+
+
+}
